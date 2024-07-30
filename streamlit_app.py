@@ -39,7 +39,7 @@ models = {
     "mixtral-8x7b-32768": {"name": "Mixtral-8x7b-Instruct-v0.1", "tokens": 32768, "developer": "Mistral"},
     "llama-3.1-70b-versatile": {"name": "llama-3.1-70b-versatile", "tokens": 8192, "developer": "Meta"},
     "llama-3.1-8b-instant": {"name": "llama-3.1-8b-instant", "tokens": 8192, "developer": "Meta"},
-    "llama-3.1-405b-reasoning": {"name": "llama-3.1-8b-instant", "tokens": 16384, "developer": "Meta"}
+    "llama-3.1-405b-reasoning": {"name": "lama-3.1-405b-reasoning", "tokens": 16384, "developer": "Meta"}
 }
 
 # Layout for model selection and max_tokens slider
